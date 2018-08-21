@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sample/point"
+
+	"github.com/bols-blue-org/cgo-swig/point"
 )
 
 func main() {
